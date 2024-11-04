@@ -104,4 +104,4 @@ Now you are ready to run the project. Make sure to activate the virtual environm
 
 ## Contact
 
-For any questions, please contact reslan3121@gmail.co.
+For any questions, please contact reslan3121@gmail.com
